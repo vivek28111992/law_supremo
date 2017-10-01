@@ -583,7 +583,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-9 col-md-9">
-                        <h4>Get the best consultation & justice.</h4>
+                        <h4>Get the best consultation at resonable cost.</h4>
                         <!-- <p>
                         </p> -->
                     </div>
@@ -675,7 +675,6 @@
                             <nav class="text-left">
                                 <ul>
                                     <li><a href="#">Home</a></li>
-                                    <li><a href="#">Pages</a></li>
                                     <li><a href="#">About</a></li>
                                     <li><a href="#">practise areas</a></li>
                                     <li><a href="#">News</a></li>
@@ -694,7 +693,7 @@
             <div class="container animated slide">
                 <div class="row">
                     <div class="col-sm-8 col-md-8">
-                        <p>© 2017 Law Supremo. All Rights Reserved | <a href="#">Privacy Policy</a></p>
+                        <p>© 2017 J S Pawar. All Rights Reserved | <a href="#">Privacy Policy</a></p>
                     </div>
                     <div class="col-md-4 col-sm-4 text-right">
                         <div class="social_icon">
