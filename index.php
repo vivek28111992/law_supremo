@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
-        <title>Legal Eagle</title>
+        <title>J S Pawar</title>
         <meta name="keywords" content="">
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
-        <link rel="icon" type="image/png" href="images/legal.png">
+        <!-- <link rel="icon" type="image/png" href="images/legal.png"> -->
 
         <!--Bootstrap-->
         <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
@@ -136,7 +136,7 @@
                             <div class="row">
                                 <div class="col-sm-12 col-md-12">
                                     <h3>your personal legal firm</h3>
-                                    <h1>Law Supremo <br /> Law Firm </h1>
+                                    <h1>J S Pawar <br /> Law Firm </h1>
                                     <a href="#" class="button yellow">Start your case</a>
                                 </div>
                             </div>
@@ -150,7 +150,7 @@
                             <div class="row">
                                 <div class="col-sm-12 col-md-12">
                                     <h3>your personal legal firm</h3>
-                                    <h1>Law Supremo <br /> Law Firm </h1>
+                                    <h1>J S Pawar <br /> Law Firm </h1>
                                     <a href="#" class="button yellow">Start your case</a>
                                 </div>
                             </div>
@@ -170,23 +170,20 @@
 
                     <div class="col-sm-4 col-md-4 feature animated fade">
                         <img src="images/firm.png" alt="">
-                        <h3>award winning  firm</h3>
-                        <p>Aorem ipsum dolor sit amet consectetur <br />
-                            adipisicing elit sed don eiusmod</p>
+                        <h3>100% dedication</h3>
+                        <p>We believe in giving 100% dedication to our clients.</p>
                     </div>
 
                     <div class="col-sm-4 col-md-4 feature animated fade">
                         <img src="images/consult.png" alt="">
                         <h3>low cost consultation</h3>
-                        <p>Aorem ipsum dolor sit amet consectetur <br />
-                            adipisicing elit sed don eiusmod</p>
+                        <p>We provide best consulation inn resonable price.</p>
                     </div>
 
                     <div class="col-sm-4 col-md-4 feature animated fade">
                         <img src="images/advice.png" alt="">
-                        <h3>best legal advice</h3>
-                        <p>Aorem ipsum dolor sit amet consectetur <br />
-                            adipisicing elit sed don eiusmod</p>
+                        <h3>best legal service</h3>
+                        <p>We deliver best legal service so that our client get justice.</p>
                     </div>
                 </div>
             </div>
@@ -195,7 +192,7 @@
 
 
         <!--Start Company info-->
-        <div class="info_wrap seaction_margin">
+        <!-- <div class="info_wrap seaction_margin">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-6 col-md-6">
@@ -219,15 +216,15 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--End Company info-->
 
 
         <!--Start Practice Area -->
         <div class="services_wrap">
             <div class="heading_section animated fade">
-                <h3 class="heading_b">our practice areas</h3>
-                <p>Dolor sit amet consectetur adipisicing elit sed do eiusmod tempor incididunt labore</p>
+                <h3 class="heading_b">practice areas</h3>
+                <p></p>
             </div>
             <div class="container">
                 <div class="row">
@@ -235,10 +232,8 @@
                     <div class="col-sm-4 col-md-4 ">
                         <div class="services animated slide">
                             <figure><i class="fa fa-book" aria-hidden="true"></i></figure>
-                            <h4>patent laws</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit sed don eiusmod tempor
-                                enim minim veniam quis.
+                            <h4>bank laws</h4>
+                            <p>Law related to banking sector.
                             </p>
                         </div>
                     </div>
@@ -246,10 +241,8 @@
                     <div class="col-sm-4 col-md-4">
                         <div class="services animated slide">
                             <figure><i class="fa fa-heartbeat" aria-hidden="true"></i></figure>
-                            <h4>Personal Injury</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit sed don eiusmod tempor
-                                enim minim veniam quis.
+                            <h4>Insurance laws</h4>
+                            <p>Laws related to insurance matter. 
                             </p>
                         </div>
                     </div>
@@ -258,9 +251,7 @@
                         <div class="services animated slide" >
                             <figure><i class="fa fa-balance-scale" aria-hidden="true"></i></figure>
                             <h4>criminal laws</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit sed don eiusmod tempor
-                                enim minim veniam quis.
+                            <p>Law related to criminal cases. 
                             </p>
                         </div>
                     </div>
@@ -269,9 +260,7 @@
                         <div class="services animated slide">
                             <figure><i class="fa fa-file-text" aria-hidden="true"></i></figure>
                             <h4>industrial cases</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit sed don eiusmod tempor
-                                enim minim veniam quis.
+                            <p>Law related to dispute between two companies.
                             </p>
                         </div>
                     </div>
@@ -280,20 +269,16 @@
                         <div class="services animated slide">
                             <figure><i class="fa fa-home" aria-hidden="true"></i></figure>
                             <h4>real estate law</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit sed don eiusmod tempor
-                                enim minim veniam quis.
+                            <p>Law related to buying, selling or renting of property.
                             </p>
                         </div>
                     </div>
 
                     <div class="col-sm-4 col-md-4">
                         <div class="services animated slide ">
-                            <figure><i class="fa fa-car" aria-hidden="true"></i></figure>
-                            <h4>car accident</h4>
-                            <p>Lorem ipsum dolor sit amet consectetur
-                                adipisicing elit sed don eiusmod tempor
-                                enim minim veniam quis.
+                            <figure><i class="fa fa-building-o" aria-hidden="true"></i></figure>
+                            <h4>Commercial law</h4>
+                            <p>Law relating to sale and delivery of goods(moveable property).
                             </p>
                         </div>
                     </div>
@@ -306,7 +291,7 @@
 
         <!--Start Skills -->
         <div class="skill_wrap seaction_margin">
-            <div class="skill_content   animated fade">
+           <!--  <div class="skill_content   animated fade">
                 <h4 class="heading_b">We are a dedicated team <br />
                     with skills</h4>
                 <p>Consectetur adipisicing elit sed do eiusmod tempor incid dunt ut labore et dolore magna aliqua.
@@ -338,7 +323,7 @@
                 <figure>
                     <img src="images/skill_img.png" alt="">
                 </figure>
-            </div>
+            </div>-->
         </div>
         <!--End Skills -->
 
@@ -418,30 +403,7 @@
 
                                     </p>
                                 </div>
-                                <h3>award winning law firm</h3>
-                                <div>
-                                    <p>
-                                        Amco laboris nisi aliquip xeaz duoa commodo consequt duis aut irure dolor
-                                        reprehenderit voluptate velit esse cillum dolore fugiat ipsum dolor sit amet
-                                        consectetur adipisicing elit sed eiusmod. Lorem ipsum dolor sit amet consec
-                                        tur adipisicing elit sed do eiusmod tempor incididunt.
-
-                                    </p>
-                                </div>
-
-                                <h3>our attorneys hold degrees</h3>
-                                <div>
-                                    <p>
-                                        Amco laboris nisi aliquip xeaz duoa commodo consequt duis aut irure dolor
-                                        reprehenderit voluptate velit esse cillum dolore fugiat ipsum dolor sit amet
-                                        consectetur adipisicing elit sed eiusmod. Lorem ipsum dolor sit amet consec
-                                        tur adipisicing elit sed do eiusmod tempor incididunt.
-
-                                    </p>
-                                </div>
-
                             </div>
-
                         </div>
                     </div>
                     <!--End Why Choose -->
@@ -549,7 +511,7 @@
 
 
         <!--Start News -->
-        <div class="news_wrap seaction_margin">
+       <!--  <div class="news_wrap seaction_margin">
             <div class="container">
 
                 <div class="heading_section  animated fade">
@@ -612,7 +574,7 @@
 
                 </div>
             </div>
-        </div>
+        </div> -->
         <!--End News -->
 
 
@@ -621,9 +583,9 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-9 col-md-9">
-                        <h4>We are an intellectual property law service.</h4>
-                        <p>Eiusmod tempor incid dunt ut labore et dolore magna aliqua. Ut enim ad minim veniam quis nostru exercitation ullamco
-                        </p>
+                        <h4>Get the best consultation & justice.</h4>
+                        <!-- <p>
+                        </p> -->
                     </div>
                     <div class="col-sm-3 col-md-3 text-right">
                         <a href="#" class="button bordered">hire the attorney</a>
@@ -643,17 +605,15 @@
                         <div class="col-sm-3 col-md-3 animated slide">
 
                             <div class="footer_widget">
-                                <a href="#"><img src="images/white_logo.png" alt=""></a>
-                                <p>Adipisicing elit sed do eiusmod tempor incidunt
-                                    labore et dolore magna aliqua enim minim ven
-                                    quis nostu exercitation ullamco.
+                                <h5>J S Pawar<!-- <img src="images/white_logo.png" alt=""> --></h5>
+                                <p>We provide best legal services & consultation. We also strive to get you justice. 
                                 </p>
-                                <div class="news_letter">
+                                <!-- <div class="news_letter">
                                     <form action="#">
                                         <input type="text" placeholder="Newsletter Sign up">
                                         <input type="submit" value="">
                                     </form>
-                                </div>
+                                </div> -->
                             </div>
 
                         </div>
@@ -669,7 +629,6 @@
                                     <li><a href="#">Merger & Acquisition</a></li>
                                     <li><a href="#">Real Estate Laws</a></li>
                                     <li><a href="#">Industrial Cases</a></li>
-                                    <li><a href="#">Patent Laws</a></li>
                                 </ul>
                             </div>
 
@@ -680,10 +639,10 @@
                             <div class="footer_widget">
                                 <h5>Working Hours</h5>
                                 <address>
-                                    <p><span>Mon-Thu:</span></p>
-                                    <p>9:00 - 21:00</p>
-                                    <p><span>Fri:</span> 10:00 - 18:00</p>
-                                    <p><span>Sat:</span> 10:00 - 15:00</p>
+                                    <p><span>Mon-Wed:</span></p>
+                                    <p>10:00 - 21:00</p>
+                                    <p><span>Thur:</span> 10:00 - 18:00</p>
+                                    <p><span>Fri - Sat:</span> 10:00 - 20:00</p>
                                 </address>
 
                                 <address>
@@ -700,7 +659,7 @@
                                 <h5>Contact Us</h5>
 
                                 <address>
-                                    <p class="hed">Paris Office</p>
+                                    <p class="hed">Mumbai Office</p>
                                     <p>10, Faisal Avenue, Top Hill,</p>
                                     <p>Tel: (051) 123-007</p>
                                     <p> E-mail: hello@le-eagle.com</p>
