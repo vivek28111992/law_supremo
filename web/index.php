@@ -361,7 +361,7 @@
                                     <input type="submit" value="Send Message" class="button yellow">
                                 </div>
                                 <div class="clearfix"></div>
-                                <div class="messages">For consultation via phone, please call  (001) 234 - 5678</div>
+                                <div class="messages">For consultation via phone, please call +91 7977709866</div>
                             </form>
                         </div>
                     </div>
@@ -660,9 +660,9 @@
 
                                 <address>
                                     <p class="hed">Mumbai Office</p>
-                                    <p>10, Faisal Avenue, Top Hill,</p>
-                                    <p>Tel: (051) 123-007</p>
-                                    <p> E-mail: hello@le-eagle.com</p>
+                                    <p>123/5, Daivat Society, Sector-1, Charkop, Kandivali(W)</p>
+                                    <p>Tel: +91 7977709866</p>
+                                    <p> E-mail: lawsupremo111@gmail.com</p>
                                 </address>
 
                             </div>
